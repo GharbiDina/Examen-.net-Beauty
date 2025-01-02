@@ -8,7 +8,10 @@ using System.Threading.Tasks;
 namespace Exam.Infrastructure
 {
     public class ExamContext: DbContext
-    {
+    { public DbSet<Client> Client { get; set; }
+ public DbSet<Prestation> Prestation { get; set; }
+ public DbSet<Prestataire> Prestataire { get; set; }
+ public DbSet<RDV> RDV { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Data Source=(localdb)\mssqllocaldb;
