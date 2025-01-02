@@ -20,8 +20,10 @@ namespace ApplicationCore.Domain
         public double Prix { get; set; }
         public virtual IList<RDV> RDV { get; set; }
       
-    
-        public int PrestataireFK { get; set; }
+    [ForeignKey("Prestataire")]
+public int PrestataireFK { get; set; }
+
+        
         public virtual Prestataire Prestataire { get; set; }
 
 
