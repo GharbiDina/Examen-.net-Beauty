@@ -22,7 +22,13 @@ namespace Exam.Infrastructure.Configuration
             .HasOne(r => r.Prestation)
             .WithMany(f => f.RDV)
            .HasForeignKey(r => r.PrestationFK);
-            
+             //Pour la configuration complete de la classe Expertise il faut ajouter la clé primaire
+ builder.HasKey(r => new
+ {
+     r.ClientFK,
+     r.PrestationFK,
+     r.DateRDV
+ });
 
         }
     }
