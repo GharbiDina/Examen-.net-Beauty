@@ -10,7 +10,7 @@ namespace ApplicationCore.Domain
 {
     public class Prestation
     {
-       
+       DataType(DataType.MultilineText)]
         public string Desciption { get; set; }
         public string Intitule { get; set; }
 
