@@ -22,7 +22,7 @@ namespace Exam.Infrastructure
             base.OnConfiguring(optionsBuilder);
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
+        {modelBuilder.ApplyConfiguration(new RDVConfiguration());
             base.OnModelCreating(modelBuilder);
         }
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
