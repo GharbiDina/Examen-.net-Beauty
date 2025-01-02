@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WEB.UI.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WEB.UI.ukp23xbppu.bundle.scp.css"
-    },
-    {
       "Id": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

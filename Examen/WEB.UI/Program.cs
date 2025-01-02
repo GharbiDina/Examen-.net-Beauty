@@ -13,6 +13,7 @@ builder.Services.AddDbContext<DbContext, ExamContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddSingleton<Type>(p => typeof(GenericRepository<>));
 builder.Services.AddScoped<IService<Prestataire>, PrestataireService>();
+builder.Services.AddScoped<IService<Prestation>, PrestationService>();
 //add instance of services
 
 

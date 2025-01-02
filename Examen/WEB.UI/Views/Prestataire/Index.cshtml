@@ -27,6 +27,8 @@
             <th>
                 @Html.DisplayNameFor(model => model.PrestataireTel)
             </th>
+            
+            
             <th></th>
         </tr>
     </thead>
@@ -51,7 +53,8 @@
             <td>
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })|
+                    @Html.ActionLink("Prestations", "Prestations", new { prestataireId = item.PrestataireId })
             </td>
         </tr>
 }

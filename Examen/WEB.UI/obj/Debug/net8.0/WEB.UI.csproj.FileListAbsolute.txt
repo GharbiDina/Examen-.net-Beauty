@@ -245,12 +245,8 @@ D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.AssemblyInfoI
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.AssemblyInfo.cs
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.csproj.CoreCompileInputs.cache
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.MvcApplicationPartsAssemblyInfo.cache
-D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.RazorAssemblyInfo.cache
-D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.RazorAssemblyInfo.cs
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.sourcelink.json
-D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\scopedcss\bundle\WEB.UI.styles.css
-D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\scopedcss\projectbundle\WEB.UI.bundle.scp.css
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.build.json
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.development.json
 D:\spring\Examen-.net-Beauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json

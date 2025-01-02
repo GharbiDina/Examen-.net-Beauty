@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\spring\\Examen-.net-Beauty\\Examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|d:\\spring\\examen-.net-beauty\\examen\\web.ui\\controllers\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\controllers\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|d:\\spring\\examen-.net-beauty\\examen\\web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|d:\\spring\\examen-.net-beauty\\examen\\web.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|d:\\spring\\examen-.net-beauty\\examen\\web.ui\\views\\prestataire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\prestataire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\spring\\examen-.net-beauty\\examen\\applicationcore\\services\\prestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\prestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\spring\\examen-.net-beauty\\examen\\applicationcore\\services\\iserviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\iserviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|d:\\spring\\examen-.net-beauty\\examen\\exam.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\spring\\examen-.net-beauty\\examen\\applicationcore\\services\\prestationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\prestationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|d:\\spring\\examen-.net-beauty\\examen\\exam.infrastructure\\configuration\\rdvconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|d:\\spring\\examen-.net-beauty\\examen\\exam.infrastructure\\migrations\\20250102205607_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\migrations\\20250102205607_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|d:\\spring\\examen-.net-beauty\\examen\\exam.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\spring\\examen-.net-beauty\\examen\\applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,20 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Views\\Prestataire\\Index.cshtml",
-              "RelativeDocumentMoniker": "WEB.UI\\Views\\Prestataire\\Index.cshtml",
-              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Views\\Prestataire\\Index.cshtml",
-              "RelativeToolTip": "WEB.UI\\Views\\Prestataire\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T21:14:20.23Z",
+              "DocumentIndex": 2,
+              "Title": "IServicePrestation.cs",
+              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Services\\IServicePrestation.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\IServicePrestation.cs",
+              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Services\\IServicePrestation.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\IServicePrestation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:24:36.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PrestataireService.cs",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Services\\PrestataireService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Services\\PrestataireService.cs",
@@ -117,14 +113,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrestataireController.cs",
-              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Controllers\\PrestataireController.cs",
-              "RelativeDocumentMoniker": "WEB.UI\\Controllers\\PrestataireController.cs",
-              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Controllers\\PrestataireController.cs",
-              "RelativeToolTip": "WEB.UI\\Controllers\\PrestataireController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB.UI\\Program.cs",
+              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Program.cs",
+              "RelativeToolTip": "WEB.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T21:01:59.72Z",
+              "WhenOpened": "2024-12-16T13:22:22.764Z",
               "EditorCaption": ""
             },
             {
@@ -137,8 +133,7 @@
               "RelativeToolTip": "Exam.Infrastructure\\Migrations\\20250102205607_first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T20:56:07.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T20:56:07.484Z"
             },
             {
               "$type": "Document",
@@ -150,12 +145,11 @@
               "RelativeToolTip": "Exam.Infrastructure\\Configuration\\RDVConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T20:53:59.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T20:53:59.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Prestation.cs",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Domain\\Prestation.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Prestation.cs",
@@ -167,33 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Program.cs",
-              "RelativeDocumentMoniker": "WEB.UI\\Program.cs",
-              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Program.cs",
-              "RelativeToolTip": "WEB.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:22:22.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WEB.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WEB.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T21:14:40.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Prestataire.cs",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Domain\\Prestataire.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Prestataire.cs",
@@ -205,7 +173,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "ExamContext.cs",
+              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\Exam.Infrastructure\\ExamContext.cs",
+              "RelativeDocumentMoniker": "Exam.Infrastructure\\ExamContext.cs",
+              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\Exam.Infrastructure\\ExamContext.cs",
+              "RelativeToolTip": "Exam.Infrastructure\\ExamContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:45:35.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrestationService.cs",
+              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Services\\PrestationService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\PrestationService.cs",
+              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Services\\PrestationService.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\PrestationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:25:15.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Domain\\Client.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Client.cs",
@@ -217,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "WEB.UI.csproj",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\WEB.UI\\WEB.UI.csproj",
               "RelativeDocumentMoniker": "WEB.UI\\WEB.UI.csproj",
@@ -229,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ApplicationCore.csproj",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\ApplicationCore.csproj",
               "RelativeDocumentMoniker": "ApplicationCore\\ApplicationCore.csproj",
@@ -241,19 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExamContext.cs",
-              "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\Exam.Infrastructure\\ExamContext.cs",
-              "RelativeDocumentMoniker": "Exam.Infrastructure\\ExamContext.cs",
-              "ToolTip": "D:\\spring\\Examen-.net-Beauty\\Examen\\Exam.Infrastructure\\ExamContext.cs",
-              "RelativeToolTip": "Exam.Infrastructure\\ExamContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T15:45:35.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Exam.Infrastructure.csproj",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\Exam.Infrastructure.csproj",
@@ -265,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Exam.Console.csproj",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\Exam.Console\\Exam.Console.csproj",
               "RelativeDocumentMoniker": "Exam.Console\\Exam.Console.csproj",
@@ -277,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\ApplicationCore\\Class1.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Class1.cs",
@@ -289,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\spring\\Examen-.net-Beauty\\Examen\\Exam.Console\\Program.cs",
               "RelativeDocumentMoniker": "Exam.Console\\Program.cs",
