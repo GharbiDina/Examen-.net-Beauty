@@ -12,7 +12,7 @@ namespace ApplicationCore.Domain
         {
             Raoued,arienaVille,Lasoukra
         }
-        
+        [Range(0, 5)]
         public int Note { get; set; }
         public string PageInstagramme { get; set; }
         public int PrestataireId { get; set; }
