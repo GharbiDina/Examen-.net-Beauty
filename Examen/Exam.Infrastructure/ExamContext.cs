@@ -16,7 +16,7 @@ namespace Exam.Infrastructure
         {
             optionsBuilder.UseSqlServer(@"Data Source=(localdb)\mssqllocaldb;
 
-             Initial Catalog=DB;Integrated Security=true;
+             Initial Catalog=Beautydina;Integrated Security=true;
                   MultipleActiveResultSets=true");
             optionsBuilder.UseLazyLoadingProxies();
             base.OnConfiguring(optionsBuilder);
