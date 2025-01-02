@@ -16,6 +16,7 @@ namespace ApplicationCore.Domain
 
         public int PrestationId { get; set; }
         public TypeP PrestationType { get; set; }
+[DataType(DataType.Currency)]
         public double Prix { get; set; }
         public virtual IList<RDV> RDV { get; set; }
       
