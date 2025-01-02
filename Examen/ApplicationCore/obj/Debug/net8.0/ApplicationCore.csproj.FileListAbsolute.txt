@@ -10,3 +10,16 @@ C:\Users\khoul\source\repos\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationC
 C:\Users\khoul\source\repos\Examen\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
 C:\Users\khoul\source\repos\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
 C:\Users\khoul\source\repos\Examen\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+D:\spring\Examen-.net-Beauty\Examen\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
