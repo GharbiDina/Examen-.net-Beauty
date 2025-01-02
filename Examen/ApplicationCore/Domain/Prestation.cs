@@ -10,20 +10,18 @@ namespace ApplicationCore.Domain
 {
     public class Prestation
     {
-       DataType(DataType.MultilineText)]
+        [DataType(DataType.MultilineText)]
         public string Desciption { get; set; }
         public string Intitule { get; set; }
 
         public int PrestationId { get; set; }
         public TypeP PrestationType { get; set; }
-[DataType(DataType.Currency)]
-        public double Prix { get; set; }
+        public decimal Prix { get; set; }
         public virtual IList<RDV> RDV { get; set; }
-      
-    [ForeignKey("Prestataire")]
-public int PrestataireFK { get; set; }
 
-        
+
+        [ForeignKey("Prestataire")]
+        public int PrestataireFK { get; set; }
         public virtual Prestataire Prestataire { get; set; }
 
 
